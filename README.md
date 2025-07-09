@@ -1,9 +1,7 @@
 <a href="https://anuraghazra.github.io"><img width="80%" src="./assets/logo.png" /></a>
 
 <br />
-
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 <br />
 <br />
 
@@ -11,7 +9,7 @@
 
 - 💼 FrontEnd Engineer at [🐧 Tencent](https://www.tencent.com)
 
-- 📈 Built [Shine Design](https://shine.design), [NUWA](https://nuwa.design) and more
+- 📈 Built [Shine Design](https://shine.design), [Nuwa Studio](https://studio.nuwa.design) and more
 
 - ❤️ I love writing Javascript, and building fun experiments on React Component
 
