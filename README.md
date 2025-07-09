@@ -13,7 +13,10 @@
 
 - ❤️ I love writing Javascript, and building fun experiments on React Component
 
+- 📝 This is my online [resume](https://qulongjun.com)
+
 - 💬 Ask me about anything [here](https://github.com/qulongjun/qulongjun/issues)
+
 
 <br />
 
