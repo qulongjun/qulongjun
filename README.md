@@ -30,16 +30,6 @@
 
 <br />
 
-#### Top Repositories
-
-<a href="https://github.com/shine-design/shine-design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shine-design&repo=shine-design&theme=buefy" />
-</a>
-<a href="https://github.com/qulongjun/leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qulongjun&repo=leetcode&theme=buefy" />
-</a>
-
-<br />
 <br />
 
 <a href="https://www.zhihu.com/people/qu-long-jun">
